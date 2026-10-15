@@ -1,0 +1,32 @@
+; CNC Plotter reference settings
+; Send one command at a time through a GRBL sender at 115200 baud.
+; First save your existing $$ output.
+
+$0=10
+$1=200
+$22=1
+$23=2
+$24=25
+$25=500
+$26=250
+$27=1
+$5=1
+$20=1
+$21=1
+$100=800
+$101=800
+$102=800
+$110=1000
+$111=1000
+$112=500
+$120=100
+$121=100
+$122=50
+$130=201
+$131=201
+$132=10
+$10=1
+
+; Optional startup state: pen starts lifted after reset.
+; Send manually only after confirming the servo direction and work offset:
+; G10 L2 P0 Z-2
