@@ -1,6 +1,7 @@
 # CNC Plotter STL Preview Gallery
 
 #### This folder contains PNG previews of every STL file from the reference CNC plotter project.
+./'step files'.git
 
  ## Reference design: 
 
