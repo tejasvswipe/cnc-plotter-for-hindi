@@ -20,9 +20,7 @@
 <img width="900" height="700" alt="Base" src="https://github.com/user-attachments/assets/37c4e0d2-7159-4d99-a8db-5055a5e49785" />
 <img width="900" height="700" alt="Back_Right_Leg" src="https://github.com/user-attachments/assets/ccb333a2-d779-43b7-9972-37a3e3c8a5ab" />
 <img width="900" height="700" alt="Back_Left_Leg" src="https://github.com/user-attachments/assets/467483a5-4e86-418a-9d12-eaf8b5c47bdc" />
-Original STL source: 
 
-EranIDar/CNC_Plotter on GitHub
 
 Each preview is rendered at 900 × 700 pixels using OpenSCAD. These are visual previews only; use the original STL files for slicing and printing.
 
