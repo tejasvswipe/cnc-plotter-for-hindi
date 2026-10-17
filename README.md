@@ -1,6 +1,7 @@
 # CNC Plotter STL Preview Gallery
 
 #### This folder contains PNG previews of every STL file from the reference CNC plotter project.
+./'step files'.git
 
  ## Reference design: 
 
@@ -213,8 +214,4 @@ Printing reminder
 
 The original project uses PLA, 0.2 mm layer height, 0.8 mm walls, 1 mm top/bottom thickness, and approximately 15% infill as a starting point. Support requirements vary by part. Confirm fit with the 2020 aluminum extrusion, MGN12 rails, lead screws, motors, and hardware before printing the complete machine.
 
-Safety and fit note
 
-These images do not replace dimensional inspection. Verify the STL scale is in millimetres in your slicer, and test critical holes with a small calibration print before producing all parts.
-
-Remove obsolete STL files for Arduino Box components and plotter legs
